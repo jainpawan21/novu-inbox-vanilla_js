@@ -37,7 +37,7 @@ To run the application in development mode:
 ```bash
 npm run dev
 ```
-This will start the Vite development server with hot module replacement (HMR) at `http://localhost:5173`
+This will start the Vite development server with hot module replacement (HMR) at `http://localhost:3000`
 
 ### Production Build
 To create a production build:
